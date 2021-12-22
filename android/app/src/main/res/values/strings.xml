@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="boxComponentName">boxComponent</string>
+  <string name="boxComponent2Name">boxComponent2</string>
+  <string name="boxComponent3Name">boxComponent3</string>
+</resources>
